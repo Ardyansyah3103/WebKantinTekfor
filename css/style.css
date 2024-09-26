@@ -6,7 +6,7 @@ body {
     color: white;
     background-color: #f9f8f6;
     background-image: url("https://www.its.ac.id/wp-content/uploads/2017/09/Gambar2111-1-1024x683.jpg");
-    background-position: center;
+    background-size: cover;
     font-family: Georgia, Times, serif;
     line-height: 1.4em;
     margin: 0px;
@@ -157,7 +157,7 @@ footer {
 
 .wrapper .title {
     position: relative;
-    top: 70%;
+    top: 75%;
     left: 55%;
     transform: translate(-50%, -50%);
 }
