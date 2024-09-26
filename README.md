@@ -1,4 +1,4 @@
-Assignment PWEB - Membuat UI website kuliner dengan HTML 5
+![CerdasGIF](https://github.com/user-attachments/assets/10e67e77-7b90-4227-9d45-4402265cf93d)Assignment PWEB - Membuat UI website kuliner dengan HTML 5
 Menggunakan beberapa elemen seperti
 - section
 - footer
@@ -8,6 +8,11 @@ Menggunakan beberapa elemen seperti
 - figcaption
 - bar aside, dll
 
+              
 
-![CerdasGIF (2)](https://github.com/user-attachments/assets/0ea8a61e-f74a-400d-bc75-a97a03284786)
+
+
+
+![WindahBasudaraGIF](https://github.com/user-attachments/assets/417df41f-37fe-4276-9c15-7201dda8f381)
+
 
