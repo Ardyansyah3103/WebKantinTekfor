@@ -37,6 +37,15 @@ h1 {
     font-size: 60px;
 }
 
+nav {
+    clear: both;
+    color: #ffffff;
+    background-color: #2f7de9;
+    height: 30px;
+    position: relative;
+    z-index: 10; /* Pastikan nav berada di atas elemen lain */
+}
+
 nav, footer {
     clear: both;
     color: #ffffff;
@@ -47,19 +56,22 @@ nav, footer {
 nav ul{
     margin: 0px;
     padding: 5px 0px 5px 30px;
+    list-style: none;
 }
 
 nav li{
-    display: inline;
+    display: inline-block;
     margin-right: 40px;
 }
 
 nav li a{
     color: #ffffff;
+    text-decoration: none;
 }
 
 nav li a:hover, nav li a.current{
     color: #000000;
+    cursor: pointer;
 }
 
 section.course{
